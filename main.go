@@ -10,4 +10,12 @@ func main(){
 
 	println("This is a simple Go program.")
 	//println("Hello, World!")
+
+}
+func init() {
+	// This is a placeholder for the init function.
+	// You can add initialization code here if needed.
+	
+	// Example: Print a message to the console
+	println("Initialization complete.")
 }
