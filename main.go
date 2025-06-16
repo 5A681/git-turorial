@@ -7,5 +7,5 @@ func main(){
 	
 	// Example: Print a message to the console
 	println("Hello, World!")
-	println("Hello, World!")
+	//println("Hello, World!")
 }
