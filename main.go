@@ -1,7 +1,5 @@
 package main
 
-import "log"
-
 
 func main(){
 	// This is a placeholder for the main function.
@@ -12,7 +10,7 @@ func main(){
 
 	println("This is a simple Go program.")
 	//println("Hello, World!")
-	log.Println("This is a simple Go program with logging.")
+	//log.Println("This is a simple Go program with logging.")
 
 }
 func init() {
