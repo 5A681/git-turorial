@@ -7,5 +7,7 @@ func main(){
 	
 	// Example: Print a message to the console
 	println("Hello, World!")
+
+	println("This is a simple Go program.")
 	//println("Hello, World!")
 }
